@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Pema D. Tamang
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Data science on my Graduate school
-- 💞️ I’m looking to collaborate on any small projects for beginners
-- 📫 How to reach me : dojebabu@gmail.com
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: I was a good break dancer.
+# Hi, I'm Pema! 👋
+
+### 🎓 Data Science | Criminal Justice | Visual Art
+I am a **Master of Science in Data Science** candidate (Expected May 2026) with a passion for bridging technical AI architectures with human-centric visual storytelling.
+
+## 🚀 Featured Project
+**[Medical Chatbot (RAG & LLM)](https://github.com/PemaDT/medical-chatbot-rag-llm)**
+* Implemented **4-bit Quantization (QLoRA)** to run 7B parameter models on single-GPU hardware.
+* Built a **RAG pipeline** to ground medical symptom analysis in factual datasets.
+
+## 🛠️ Tech Stack
+* **Languages:** Python, SQL, R.
+* **ML Tools:** Hugging Face, PyTorch, Scikit-learn, SentenceTransformers.
+* **Visualization:** Tableau, Matplotlib.
 
 <!---
 PemaDT/PemaDT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
